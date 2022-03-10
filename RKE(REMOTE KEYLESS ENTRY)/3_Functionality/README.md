@@ -6,4 +6,13 @@ The system signals that it has either locked or unlocked the car usually through
 
 The functions of a remote keyless entry system are contained on a key fob or built into the ignition key handle itself. Buttons are dedicated to locking or unlocking the doors and opening the trunk or tailgate. On some minivans, the power sliding doors can be opened/closed remotely. Some cars will also close any open windows and roof when remotely locking the car. Some remote keyless fobs also feature a red panic button which activates the car alarm as a standard feature. Further adding to the convenience, some cars' engines with remote keyless ignition systems can be started by the push of a button on the key fob (useful in cold weather), and convertible tops can be raised and lowered from outside the vehicle while it's parked.
 
+## Typical RKE functions(in this project): 
+-->Print lock – (Blue switch on- All led on at the same time)
+
+-->Print unlock - (Blue switch press two times- All led off at the same time)
+
+-->Print alarm activation/deactivation - (Blue switch press three times- All led on in clockwise manner)
+
+-->Print approach light - (Blue switch press four times- All led on in anti-clockwise manner)
+
 
