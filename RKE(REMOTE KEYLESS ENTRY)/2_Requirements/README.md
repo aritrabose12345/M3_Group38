@@ -6,6 +6,15 @@ Widely used in automobiles, an RKS performs the functions of a standard car key 
 # REQUIREMENTS:
 ## HIGH LEVEL REQUIREMENTS:
 
-RKE transmission requires two components - a transmitter and a receiver:
+RKE transmission requires two components-
+
+transmitter and a receiver:
 Transmitter - RKE key fob, other ID device with RKE integrated 
 Receiver - Body Control ECU, other ECU with integrated RKE 
+
+## LOW LEVEL REQUIREMENTS:
+
+# SWOT ANALYSIS:
+## STRENGTHS:
+
+RKE-actuated vehicle-immobilization technology minimizes car theft. 
