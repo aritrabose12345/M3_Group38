@@ -35,4 +35,9 @@ Every function is managed by the buttons on the remote.
 
 ## WEAKNESS:
 
+A remote can stop working because of dead battery & reprogramming of the remote can also be needed.
+
+Two or more commands cannot be functioned at the same time.
+
+
 
