@@ -35,4 +35,34 @@ Every function is managed by the buttons on the remote.
 
 ## WEAKNESS:
 
+A remote can stop working because of dead battery & reprogramming of the remote can also be needed.
+
+Two or more commands cannot be functioned at the same time.
+
+## OPPORTUNITIES:
+
+The RKE systems has a huge scope in automobiles as the RKE system can be programmed in such a way to handle/protect the automobiles from panics, like noise other than car theft by activating new features like alarms in it.
+
+Enabling RKE systems in vehicles not only improves security of car access but also facilitates convenience to the users.
+
+Reasonable cost.
+
+## THREATS:
+
+RKE system introduces many threats like key fob cloning, jamming, & so on.
+
+# 5Ws & 1H:
+
+WHO- People who wants to control the actions of a car remotely.
+
+WHEN- Other than controlling locks, RKE systems for cars can be used to control the security alarm, & lights.
+
+WHY- Provides better security & actions can be controlled remotely.
+
+WHERE- Can be used from anywhere using a remote.It maybe inside/outside a car.
+
+WHAT- Represents the standard solution for conveniently locking & unlocking a vehicles's doors or luggage compartment by remote control.
+
+HOW- Using a blue button with multiple LEDs.
+
 
