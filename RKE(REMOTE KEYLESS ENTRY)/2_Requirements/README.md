@@ -39,5 +39,13 @@ A remote can stop working because of dead battery & reprogramming of the remote 
 
 Two or more commands cannot be functioned at the same time.
 
+## OPPORTUNITIES:
+
+The RKE systems has a huge scope in automobiles as the RKE system can be programmed in such a way to handle/protect the automobiles from panics, like noise other than car theft by activating new features like alarms in it.
+
+Less cost.
+
+## THREATS:
+
 
 
