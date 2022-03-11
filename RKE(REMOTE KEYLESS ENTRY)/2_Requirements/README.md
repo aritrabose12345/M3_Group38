@@ -51,5 +51,18 @@ Reasonable cost.
 
 RKE system introduces many threats like key fob cloning, jamming, & so on.
 
+# 5Ws & 1H:
+
+WHO-
+
+WHEN-
+
+WHY-
+
+WHERE-
+
+WHAT-
+
+HOW:
 
 
