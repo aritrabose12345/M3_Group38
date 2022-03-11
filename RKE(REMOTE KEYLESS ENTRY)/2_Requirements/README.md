@@ -18,3 +18,9 @@ Receiver - Body Control ECU, other ECU with integrated RKE
 ## STRENGTHS:
 
 RKE-actuated vehicle-immobilization technology minimizes car theft. 
+There is no human interaction with the car as it is keyless.
+Every function is managed by the buttons on the remote.
+
+## WEAKNESS:
+
+
