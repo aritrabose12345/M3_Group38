@@ -9,10 +9,20 @@ Widely used in automobiles, an RKS performs the functions of a standard car key 
 RKE transmission requires two components-
 
 transmitter and a receiver:
+
 Transmitter - RKE key fob, other ID device with RKE integrated 
+
 Receiver - Body Control ECU, other ECU with integrated RKE 
 
 ## LOW LEVEL REQUIREMENTS:
+
+It shall lock the car when blue switch is ON turning ON all the LEDs.
+
+It shall unlock the car when blue switch is pressed two times, turning off all LEDs at the same time
+
+It shall activate or deactivate the alarm when blue switch is pressed three times, turning ON all the LEDs in a clockwise manner respectively.
+
+It shall approach light when blue switch is pressed four times, turning ON all the LEDs in an anti-clockwise manner respectively.
 
 # SWOT ANALYSIS:
 ## STRENGTHS:
