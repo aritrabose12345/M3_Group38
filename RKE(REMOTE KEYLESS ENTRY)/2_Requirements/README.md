@@ -53,16 +53,16 @@ RKE system introduces many threats like key fob cloning, jamming, & so on.
 
 # 5Ws & 1H:
 
-WHO-
+WHO- People who wants to control the actions of a car remotely.
 
-WHEN-
+WHEN- Other than controlling locks, RKE systems for cars can be used to control the security alarm, & lights.
 
-WHY-
+WHY- Provides better security & actions can be controlled remotely.
 
-WHERE-
+WHERE- Can be used from anywhere using a remote.It maybe inside/outside a car.
 
-WHAT-
+WHAT- Represents the standard solution for conveniently locking & unlocking a vehicles's doors or luggage compartment by remote control.
 
-HOW:
+HOW- Using a blue button with multiple LEDs.
 
 
