@@ -43,9 +43,13 @@ Two or more commands cannot be functioned at the same time.
 
 The RKE systems has a huge scope in automobiles as the RKE system can be programmed in such a way to handle/protect the automobiles from panics, like noise other than car theft by activating new features like alarms in it.
 
-Less cost.
+Enabling RKE systems in vehicles not only improves security of car access but also facilitates convenience to the users.
+
+Reasonable cost.
 
 ## THREATS:
+
+RKE system introduces many threats like key fob cloning, jamming, & so on.
 
 
 
